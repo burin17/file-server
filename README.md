@@ -1,5 +1,5 @@
 <h2>General info</h2>
-With this application you can transfer directories between computers on a local network. To use the application you must have installed JRE.
+With this application you can transfer directories between computers on a local network. To use the application you must have installed JDK.
 
 <h2>Usage instruction</h2>
 <ol>
